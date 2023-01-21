@@ -214,6 +214,7 @@ type t = {
   justifyContent?: string,
   order?: string,
   textDecorationColor?: string,
+  gap? :string,
   /* Text Decoration Level 3 - CR */
   /* textDecoration - already defined by CSS2Properties */
   textDecorationLine?: string,
